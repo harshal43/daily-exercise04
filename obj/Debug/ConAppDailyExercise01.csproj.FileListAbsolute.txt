@@ -1,0 +1,8 @@
+C:\New folder\Day07\ConAppDailyExercise01\ConAppDailyExercise01\bin\Debug\ConAppDailyExercise01.exe.config
+C:\New folder\Day07\ConAppDailyExercise01\ConAppDailyExercise01\bin\Debug\ConAppDailyExercise01.exe
+C:\New folder\Day07\ConAppDailyExercise01\ConAppDailyExercise01\bin\Debug\ConAppDailyExercise01.pdb
+C:\New folder\Day07\ConAppDailyExercise01\ConAppDailyExercise01\obj\Debug\ConAppDailyExercise01.csproj.AssemblyReference.cache
+C:\New folder\Day07\ConAppDailyExercise01\ConAppDailyExercise01\obj\Debug\ConAppDailyExercise01.csproj.SuggestedBindingRedirects.cache
+C:\New folder\Day07\ConAppDailyExercise01\ConAppDailyExercise01\obj\Debug\ConAppDailyExercise01.csproj.CoreCompileInputs.cache
+C:\New folder\Day07\ConAppDailyExercise01\ConAppDailyExercise01\obj\Debug\ConAppDailyExercise01.exe
+C:\New folder\Day07\ConAppDailyExercise01\ConAppDailyExercise01\obj\Debug\ConAppDailyExercise01.pdb
